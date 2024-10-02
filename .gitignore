@@ -1,0 +1,16 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore folder
+__pycache__
+.venv
+.pytest_cache
+.benchmarks
+.obsidian
+rag
+
+# Ignore key files
+.env
+
+# Ignore .vscode folder
+.code-workspace
